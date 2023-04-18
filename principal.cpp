@@ -6,6 +6,7 @@ using namespace std;
 #include "maura.cpp"
 #include "yolanda.cpp"
 #include "carlos.cpp"
+#include "lorena.cpp"
 
 int main() {
     harry();
@@ -14,5 +15,6 @@ int main() {
     yolanda();
     maura();
     carlos();
+    lorena();
     return 0;
 }
